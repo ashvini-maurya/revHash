@@ -1,7 +1,6 @@
 from nose.tools import *
 import unittest
-#from revHash.revHash import ReverseHash
-from ..revHash import reverseHash
+from revHash.revHash.revHash import ReverseHash
 
 class TestDrivenForReverseHash(unittest.TestCase):
 
