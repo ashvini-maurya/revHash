@@ -20,6 +20,6 @@ class ReverseHash(object):
 			raise ValueError
 
 
-hash_value = input("Please enter hash: ")
-result = ReverseHash().rev_hash(hash_value)
-print result
+#hash_value = input("Please enter hash: ")
+#result = ReverseHash().rev_hash(hash_value)
+#print result
